@@ -1,0 +1,4 @@
+# Installeur genere par installer\build.bat
+dist/
+__pycache__/
+*.pyc
